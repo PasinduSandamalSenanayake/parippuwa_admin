@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "811432022545",
+    "project_id": "parippuwa-1984a",
+    "storage_bucket": "parippuwa-1984a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811432022545:android:27e4226e0adc031bb457b0",
+        "android_client_info": {
+          "package_name": "com.example.parippuwa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811432022545-0g6efpi8d2vkdqbgj9sjb5j41rbarf45.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.parippuwa",
+            "certificate_hash": "9939b2b077e07b7c5dfae8a40f1f4d514669018b"
+          }
+        },
+        {
+          "client_id": "811432022545-79vju5ruq7ck5ohm2f2iih7fckaoslqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLvvGN688dE0MVljYU9Eqy5O7lz-yYoeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811432022545-79vju5ruq7ck5ohm2f2iih7fckaoslqj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "811432022545-bqt5isg663rosjaec6p7bhsbvtj5pbo5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.parippuwa"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811432022545:android:afc725c57a1ed8beb457b0",
+        "android_client_info": {
+          "package_name": "com.example.parippuwa_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811432022545-79vju5ruq7ck5ohm2f2iih7fckaoslqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLvvGN688dE0MVljYU9Eqy5O7lz-yYoeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811432022545-79vju5ruq7ck5ohm2f2iih7fckaoslqj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "811432022545-bqt5isg663rosjaec6p7bhsbvtj5pbo5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.parippuwa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
